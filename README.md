@@ -17,3 +17,6 @@ a játékmechanikák manipulálására, esetleges hibák kiküszöbölésére.
 <ol>
 <li> 1.0.0 verzió - Alfa verzió, kezdetleges mozgással és pályadizájnnal.</li>
 <li> 1.0.1 verzió - Játékmechanikák kezdetleges implementálása</li>
+<li> 1.0.2-1.0.3.1 verzió - lokális Co-op implementálása, multiplayer (on same network) implementálása,
+  prototípus véglegesítése, finomítása</li>
+<li> 1.0.4 verzió - Véglegesített prototípus</li>
