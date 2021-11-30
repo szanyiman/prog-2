@@ -21,6 +21,8 @@ a játékmechanikák manipulálására, esetleges hibák kiküszöbölésére.
   prototípus véglegesítése, finomítása</li>
 <li> 1.0.4 verzió - Véglegesített prototípus</li>
 </ol>
+
+---
 ## Használt szoftverek:
 <ul>
   <li> GDevelop 5</li>
@@ -28,6 +30,8 @@ a játékmechanikák manipulálására, esetleges hibák kiküszöbölésére.
   <li> Krita</li>
   <li> Audacity</li>
 </ul>
+
+---
 ## Használt hang fájlok:
 <ul>
   <li>https://www.zapsplat.com/music/vancouver-night-roaring-traffic-cars-buses-pedestrians-walking-and-talking/</li>
