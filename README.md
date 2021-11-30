@@ -13,7 +13,7 @@ A motor elég felhasználóbarát, de kódolásos része is létezik, amit szint
 a játékmechanikák manipulálására, esetleges hibák kiküszöbölésére.
 
 ---
-### Játék verziók
+## Játék verziók
 <ol>
 <li> 1.0.0 verzió - Alfa verzió, kezdetleges mozgással és pályadizájnnal.</li>
 <li> 1.0.1 verzió - Játékmechanikák kezdetleges implementálása</li>
@@ -21,13 +21,13 @@ a játékmechanikák manipulálására, esetleges hibák kiküszöbölésére.
   prototípus véglegesítése, finomítása</li>
 <li> 1.0.4 verzió - Véglegesített prototípus</li>
 
-### Használt szoftverek:
+## Használt szoftverek:
   <li> GDevelop 5</li>
   <li> VSDC</li>
   <li> Krita</li>
   <li> Audacity</li>
 
-### Használt hang fájlok:
+## Használt hang fájlok:
   <li>https://www.zapsplat.com/music/vancouver-night-roaring-traffic-cars-buses-pedestrians-walking-and-talking/</li>
   <li>https://freesound.org/people/xdrav/sounds/112843/</li>
   <li>https://www.bensound.com/royalty-free-music/track/the-jazz-piano</li>
